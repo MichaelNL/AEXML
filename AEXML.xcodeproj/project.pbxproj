@@ -7,9 +7,9 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		4CC90B8A1E0ECBA000EAA74C /* AEXMLTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4CC90B891E0ECBA000EAA74C /* AEXMLTests.swift */; };
-		4CC90B8B1E0ECBA000EAA74C /* AEXMLTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4CC90B891E0ECBA000EAA74C /* AEXMLTests.swift */; };
-		4CC90B8C1E0ECBA000EAA74C /* AEXMLTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4CC90B891E0ECBA000EAA74C /* AEXMLTests.swift */; };
+		4C0C61C11E0ECCD40010817C /* AEXMLTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C0C61C01E0ECCD40010817C /* AEXMLTests.swift */; };
+		4C0C61C21E0ECCD40010817C /* AEXMLTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C0C61C01E0ECCD40010817C /* AEXMLTests.swift */; };
+		4C0C61C31E0ECCD40010817C /* AEXMLTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C0C61C01E0ECCD40010817C /* AEXMLTests.swift */; };
 		8B4A92821BDD477E0011F36F /* AEXML.h in Headers */ = {isa = PBXBuildFile; fileRef = 8B4A92811BDD477E0011F36F /* AEXML.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		8B4A92921BDD4AD30011F36F /* AEXML.h in Headers */ = {isa = PBXBuildFile; fileRef = 8B4A92811BDD477E0011F36F /* AEXML.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		8B4A929E1BDD4CEF0011F36F /* AEXML.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 8B4A92791BDD47210011F36F /* AEXML.framework */; };
@@ -70,7 +70,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		4CC90B891E0ECBA000EAA74C /* AEXMLTests.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = AEXMLTests.swift; path = AEXML/AEXMLTests.swift; sourceTree = "<group>"; };
+		4C0C61C01E0ECCD40010817C /* AEXMLTests.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = AEXMLTests.swift; path = AEXMLTests/AEXMLTests.swift; sourceTree = "<group>"; };
 		8B0D48AA1C594F8D0075C8BF /* CHANGELOG.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = CHANGELOG.md; sourceTree = "<group>"; };
 		8B4A92791BDD47210011F36F /* AEXML.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = AEXML.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		8B4A92811BDD477E0011F36F /* AEXML.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AEXML.h; sourceTree = "<group>"; };
@@ -225,7 +225,7 @@
 		8BFE78C119F0054200914487 /* Tests */ = {
 			isa = PBXGroup;
 			children = (
-				4CC90B891E0ECBA000EAA74C /* AEXMLTests.swift */,
+				4C0C61C01E0ECCD40010817C /* AEXMLTests.swift */,
 				8B4A92E91BDD66680011F36F /* Resources */,
 				8BFE78C219F0054200914487 /* Supporting Files */,
 			);
@@ -555,7 +555,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				4CC90B8A1E0ECBA000EAA74C /* AEXMLTests.swift in Sources */,
+				4C0C61C11E0ECCD40010817C /* AEXMLTests.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -563,7 +563,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				4CC90B8C1E0ECBA000EAA74C /* AEXMLTests.swift in Sources */,
+				4C0C61C31E0ECCD40010817C /* AEXMLTests.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -583,7 +583,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				4CC90B8B1E0ECBA000EAA74C /* AEXMLTests.swift in Sources */,
+				4C0C61C21E0ECCD40010817C /* AEXMLTests.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
